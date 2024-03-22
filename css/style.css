@@ -1,0 +1,15 @@
+body{
+background-color: aqua;
+}
+
+div{
+    text-align: center;
+    background-color: darkcyan;
+    color:white;
+    border-radius: 30px;
+    padding: 10px;
+    position: absolute;
+    Top: 50%;
+    Left: 50%;
+    transform: translate(-50%, -50%);
+}
